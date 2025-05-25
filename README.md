@@ -43,3 +43,11 @@ This repository presents a complete pipeline for performing sentiment analysis o
      - `RandomForestClassifier`
 
 ---
+
+## 📁 Dataset
+
+**Name**: `ReadyToTrain_data_2col_with_subjectivity_final.tsv`  
+**Source**: [A Novel Dataset for Aspect-based Sentiment Analysis for Teacher Performance Evaluation](https://data.mendeley.com/datasets/b2yhc95rnx/1)  
+**Download Link**: [https://data.mendeley.com/datasets/b2yhc95rnx/1](https://data.mendeley.com/datasets/b2yhc95rnx/1)  
+
+The dataset contains student feedback sentences labeled with sentiment and subjectivity annotations.
